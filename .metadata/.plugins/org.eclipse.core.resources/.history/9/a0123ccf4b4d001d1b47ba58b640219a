@@ -1,0 +1,5 @@
+package com.maypatel.blog.payload;
+
+public class UserDTO {
+
+}

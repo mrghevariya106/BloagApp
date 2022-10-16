@@ -1,0 +1,5 @@
+package com.maypatel.blog.repositories;
+
+public class UserRepository {
+
+}

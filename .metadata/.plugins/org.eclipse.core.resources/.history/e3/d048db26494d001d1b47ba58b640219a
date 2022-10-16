@@ -1,0 +1,5 @@
+package com.maypatel.blog.modal;
+
+public class User {
+
+}
